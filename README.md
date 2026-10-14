@@ -89,7 +89,7 @@ align="left"
 
 ## 📂 Projetos
 
-- **[Buscador & Engine de Dados Estruturados](https://github.com/devgabimoraes/oraculo-sim-nao)**: aplicação em C# (.NET) que pesquisa e filtra mais de 2.000 registos em JSON, com LINQ e tratamento de texto.
+- **[Buscador de Perguntas e respostas](https://github.com/devgabimoraes/oraculo-sim-nao)**: aplicação em C# (.NET) que pesquisa e filtra mais de 2.000 registos em JSON, com LINQ e tratamento de texto.
 - *(em breve)* Análise de dados com Python/Pandas
 
 ## 📫 Contacto
